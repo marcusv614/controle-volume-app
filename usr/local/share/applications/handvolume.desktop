@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Hand Volume
+Exec=/usr/local/bin/handvolume
+Icon=/usr/local/share/icons/hicolor/48x48/apps/maos.jpg
+Type=Application
+Terminal=True
+Categories=Utility;
+

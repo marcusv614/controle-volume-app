@@ -1,0 +1,13 @@
+#!/bin/bash
+# Caminho para o app
+APP_DIR="/opt/handvolume"
+
+# Ativar o ambiente virtual
+source "$APP_DIR/venv/bin/activate"
+
+# Executar o programa
+python3 "$APP_DIR/ControleMao.py"
+
+# Desativar o venv após execução
+deactivate
+

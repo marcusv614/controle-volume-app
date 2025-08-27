@@ -1,0 +1,9 @@
+Package: handvolume
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-opencv, python3-pip
+Maintainer: Marcus Pinheiro <marcus.pinheiro@super.ufam.edu.br>
+Description: Controle de volume usando as mãos.
+ Aplicativo de volume que usa visão computacional.
